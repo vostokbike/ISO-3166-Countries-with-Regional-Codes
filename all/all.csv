@@ -26,7 +26,7 @@ Key,Name,alpha-2,alpha-3,country-code,iso_3166-2,region,sub-region,region-code,s
 ,Bermuda,BM,BMU,060,ISO 3166-2:BM,Americas,Northern America,019,021
 ,Bhutan,BT,BTN,064,ISO 3166-2:BT,Asia,Southern Asia,142,034
 ,Bolivia (Plurinational State of),BO,BOL,068,ISO 3166-2:BO,Americas,South America,019,005
-"Bonaire, Sint Eustatius and Saba",BQ,BES,535,ISO 3166-2:BQ,Americas,Caribbean,019,029
+,"Bonaire, Sint Eustatius and Saba",BQ,BES,535,ISO 3166-2:BQ,Americas,Caribbean,019,029
 ,Bosnia and Herzegovina,BA,BIH,070,ISO 3166-2:BA,Europe,Southern Europe,150,039
 ,Botswana,BW,BWA,072,ISO 3166-2:BW,Africa,Southern Africa,002,018
 ,Bouvet Island,BV,BVT,074,ISO 3166-2:BV,,,,
