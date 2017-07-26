@@ -1,6 +1,6 @@
-name,alpha-2,alpha-3,country-code,iso_3166-2,region,sub-region,region-code,sub-region-code
-Afghanistan,AF,AFG,004,ISO 3166-2:AF,Asia,Southern Asia,142,034
-Åland Islands,AX,ALA,248,ISO 3166-2:AX,Europe,Northern Europe,150,154
+Key,Name,alpha-2,alpha-3,country-code,iso_3166-2,region,sub-region,region-code,sub-region-code
+,Afghanistan,AF,AFG,004,ISO 3166-2:AF,Asia,Southern Asia,142,034
+,Aland Islands,AX,ALA,248,ISO 3166-2:AX,Europe,Northern Europe,150,154
 Albania,AL,ALB,008,ISO 3166-2:AL,Europe,Southern Europe,150,039
 Algeria,DZ,DZA,012,ISO 3166-2:DZ,Africa,Northern Africa,002,015
 American Samoa,AS,ASM,016,ISO 3166-2:AS,Oceania,Polynesia,009,061
@@ -53,10 +53,10 @@ Congo,CG,COG,178,ISO 3166-2:CG,Africa,Middle Africa,002,017
 Congo (Democratic Republic of the),CD,COD,180,ISO 3166-2:CD,Africa,Middle Africa,002,017
 Cook Islands,CK,COK,184,ISO 3166-2:CK,Oceania,Polynesia,009,061
 Costa Rica,CR,CRI,188,ISO 3166-2:CR,Americas,Central America,019,013
-Côte d'Ivoire,CI,CIV,384,ISO 3166-2:CI,Africa,Western Africa,002,011
+Cote d'Ivoire,CI,CIV,384,ISO 3166-2:CI,Africa,Western Africa,002,011
 Croatia,HR,HRV,191,ISO 3166-2:HR,Europe,Southern Europe,150,039
 Cuba,CU,CUB,192,ISO 3166-2:CU,Americas,Caribbean,019,029
-Curaçao,CW,CUW,531,ISO 3166-2:CW,Americas,Caribbean,019,029
+Curacao,CW,CUW,531,ISO 3166-2:CW,Americas,Caribbean,019,029
 Cyprus,CY,CYP,196,ISO 3166-2:CY,Asia,Western Asia,142,145
 Czech Republic,CZ,CZE,203,ISO 3166-2:CZ,Europe,Eastern Europe,150,151
 Denmark,DK,DNK,208,ISO 3166-2:DK,Europe,Northern Europe,150,154
@@ -179,7 +179,7 @@ Poland,PL,POL,616,ISO 3166-2:PL,Europe,Eastern Europe,150,151
 Portugal,PT,PRT,620,ISO 3166-2:PT,Europe,Southern Europe,150,039
 Puerto Rico,PR,PRI,630,ISO 3166-2:PR,Americas,Caribbean,019,029
 Qatar,QA,QAT,634,ISO 3166-2:QA,Asia,Western Asia,142,145
-Réunion,RE,REU,638,ISO 3166-2:RE,Africa,Eastern Africa,002,014
+Reunion,RE,REU,638,ISO 3166-2:RE,Africa,Eastern Africa,002,014
 Romania,RO,ROU,642,ISO 3166-2:RO,Europe,Eastern Europe,150,151
 Russian Federation,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,150,151
 Rwanda,RW,RWA,646,ISO 3166-2:RW,Africa,Eastern Africa,002,014
